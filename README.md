@@ -1,5 +1,58 @@
 # Personalized Networking Assistant 🤝
 
+## 📄 Documentation
+
+The complete project documentation is available in the `documentation` folder.
+
+**Documentation File:**
+
+```text
+documentation/Personalized_Networking_Assistant_Documentation.pdf
+```
+
+The documentation includes:
+
+* Project Overview
+* Project Workflow
+* Technologies Used
+* System Architecture
+* Module Implementation
+* API Documentation
+* Testing
+* Results
+* Challenges Faced
+* Future Enhancements
+* Screenshots of the Complete Project
+
+---
+
+## 🎥 Demo Video
+
+The complete demonstration of the project is available in the `demo` folder.
+
+**Demo Video:**
+
+```text
+demo/Personalized_Networking_Assistant_Demo.mp4
+```
+
+The demo video demonstrates:
+
+* Project Introduction
+* Backend API Testing using FastAPI Swagger
+* Streamlit Frontend
+* Event Theme Extraction
+* Personalized Conversation Generation
+* Fact Checking
+* Conversation History
+* Feedback Logging
+* Automated Testing using Pytest
+* Complete Project Workflow
+
+---
+
+
+
 An AI-powered networking assistant that helps users prepare meaningful conversations before attending professional events. The application analyzes an event description, identifies key themes using AI, generates personalized conversation starters based on the user's interests, verifies facts using Wikipedia, and stores conversation and feedback history.
 
 ---
@@ -183,10 +236,5 @@ pytest --cov=app
 
 ---
 
-## 👩‍💻 Author
-
-**Usha Sri**
-
-B.Tech – Computer Science & Engineering
 
 This project was developed as an AI-powered networking assistant to demonstrate practical skills in FastAPI, Streamlit, NLP, REST API development, and software testing.
