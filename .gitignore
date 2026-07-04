@@ -1,0 +1,36 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+
+venv/
+
+# VS Code
+
+.vscode/
+
+# Pytest
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Streamlit
+
+.streamlit/
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# Environment Variables
+
+.env
+
+# Logs
+
+*.log
