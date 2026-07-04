@@ -1,1 +1,27 @@
-[]
+[
+    {
+        "suggestion": "You are interested in building a successful business.",
+        "action": "like",
+        "timestamp": "2026-07-04T18:24:33.920096"
+    },
+    {
+        "suggestion": "You want to make money.",
+        "action": "dislike",
+        "timestamp": "2026-07-04T18:24:38.544449"
+    },
+    {
+        "suggestion": "AI can improve healthcare.",
+        "action": "like",
+        "timestamp": "2026-07-04T18:26:53.864845"
+    },
+    {
+        "suggestion": "\"What is your view of the Internet as a new medium for communicating and promoting communication? Where is it going? And what role is it playing? \"",
+        "action": "like",
+        "timestamp": "2026-07-04T18:34:32.881233"
+    },
+    {
+        "suggestion": "\"I want to hear your perspective on how you have seen the technology evolve and evolve, with or without a strong belief that it will continue to evolve. You are right, technology is evolving. It is going to continue to evolve. Your view is that it is going to evolve. You are right, it is going to evolve. Your view is that it is going to evolve.\"",
+        "action": "dislike",
+        "timestamp": "2026-07-04T18:34:36.566458"
+    }
+]
